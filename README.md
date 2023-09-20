@@ -14,14 +14,16 @@ single PSD measurements over at most 2 MHz band for inference.
 We release the lightweight version of the framework as Docker container. 
 
 ## Dataset
-DOI: 10.5281/zenodo.7521246
+
 We release the compressed version of the dataset that contains the measurements of 
 real-world data collected from 47 different sensors deployed across Europe.
 
 To access to the dataset: https://zenodo.org/record/7521246
+
 If you encounter any issue with Zenodo please write an email to:
 alessio.scalingi@imdea.org with subject "Access PSD Dataset - [Your Name]"
 
+DOI: 10.5281/zenodo.7521246.
 
 ## Requirements 
 In order to run the repository you need the following software:
