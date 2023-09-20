@@ -11,7 +11,7 @@ Second, the data-driven deep learning solution to classify the radio frequency c
 technology used by the transmitter, using transmission features in a compressed space extracted from
 single PSD measurements over at most 2 MHz band for inference.
 
-We release the lightweight version of the framework running as Docker container. 
+We release the lightweight version of the framework as Docker container. 
 
 ## Dataset
 We release the compressed version of the dataset that contains the measurements of 
