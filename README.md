@@ -19,6 +19,9 @@ We release the compressed version of the dataset that contains the measurements 
 real-world data collected from 47 different sensors deployed across Europe.
 
 To access to the dataset: https://zenodo.org/record/7521246
+If you encounter any issue with Zenodo please write an email to:
+alessio.scalingi@imdea.org with subject "Access PSD Dataset - [Your Name]"
+
 
 ## Requirements 
 In order to run the repository you need the following software:
